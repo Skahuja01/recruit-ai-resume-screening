@@ -29,7 +29,9 @@ Recruit AI automates the initial screening process by:
 2. Job description is added
 3. AI analyzes both inputs
 4. Structured evaluation is generated
+## System Workflow
 
+![Recruit AI – System Workflow](https://github.com/user-attachments/assets/da10fe98-620b-4b58-894e-8ee2f4ecc44e)
 ---
 
 ## Tech Stack
@@ -47,3 +49,7 @@ This project demonstrates:
 - Real-world hiring automation use cases
 
 Built as part of my learning in Product Management, Business Analytics, and AI-powered systems.
+
+
+
+
