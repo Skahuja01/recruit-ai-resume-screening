@@ -1,0 +1,26 @@
+# AI Project – Resume Screening Agent
+
+## Problem
+Recruiters manually screen hundreds of resumes, which is time-consuming, inconsistent, and biased.
+
+## Solution
+This project is an AI-powered resume screening system that:
+- Takes a Job Description and Resume as input
+- Scores candidate fit
+- Highlights strengths and gaps
+- Suggests next steps (shortlist / reject)
+
+## How it Works
+1. User uploads resume
+2. Job description is provided
+3. AI analyzes both inputs
+4. Structured score and feedback is generated
+
+## Tools & Tech
+- n8n (workflow automation)
+- LLM (OpenAI / Gemini)
+- Webhooks
+- Frontend UI
+
+## Why This Project
+Built to demonstrate product thinking, automation design, and real-world AI use cases for hiring.
